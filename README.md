@@ -1,7 +1,7 @@
 
 # Pune City
 
-![Pune](../Pune%20City/img/main-img.webp)
+![Pune](./img/main-img.webp)
 
 ## 🏙️ Introduction
 Pune, often called the **"Oxford of the East"**, is a vibrant city located in the western Indian state of **Maharashtra**. It's known for its **educational institutions, cultural heritage, pleasant weather**, and fast-growing IT sector.
